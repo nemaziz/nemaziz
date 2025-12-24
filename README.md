@@ -8,7 +8,7 @@
 *   I'm currently learning CNN and Algorithms
 
 <div id="header" align=""> 
-  <a href="mailto:aziznematov@gmail.com">
+  <a href="mailto:aziznematov.job@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>  
