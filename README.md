@@ -4,8 +4,6 @@
 
 
 *   Data Scientist
-*   I'm based in Saint Petersburg
-*   I'm currently learning CNN and Algorithms
 
 <div id="header" align=""> 
   <a href="mailto:aziznematov.job@gmail.com">
